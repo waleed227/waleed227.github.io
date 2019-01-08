@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "page.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 53,
+    "uniqCompNum": 55,
     "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/kotoube-128x77.png",
     "noImageResize": ""
@@ -1920,7 +1920,7 @@
         }
       ]
     },
-    "page3.html": {
+    "page.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "الكتاب الطائر",
