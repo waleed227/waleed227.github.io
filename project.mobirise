@@ -37,7 +37,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 61,
+    "uniqCompNum": 63,
     "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/kotoube.jpg",
     "noImageResize": "true",
