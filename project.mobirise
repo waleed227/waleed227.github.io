@@ -37,11 +37,13 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 63,
+    "uniqCompNum": 64,
     "versionPublish": "4.8.10",
-    "favicon": "@PROJECT_PATH@/assets/images/kotoube.jpg",
+    "favicon": "@PROJECT_PATH@/assets/images/kotoube-1.jpg",
     "noImageResize": "true",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
@@ -1338,7 +1340,8 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "features17-1r"
         }
       ]
     },
